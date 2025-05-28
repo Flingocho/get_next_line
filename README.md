@@ -192,5 +192,5 @@ This project is part of the 42 School curriculum and is provided under the [MIT 
 ---
 
 <div align="center">
-  Created with ❤️ by <a href="https://github.com/Flingocho">jvidal-t</a>
+  Created with ❤️ by <a href="https://github.com/Flingocho">Flingocho</a>
 </div>
