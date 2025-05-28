@@ -1,0 +1,8 @@
+This is line 1
+This is line 2
+This is line 3
+This is the 4th line
+Line 5 contains some special characters: !@#$%^&*()
+Line 6 is a bit longer than the others to test buffer handling with different buffer sizes
+Line 7
+The last line doesn't have a newline at the end
